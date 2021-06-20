@@ -1,0 +1,16 @@
+C:\Users\Cemil\Desktop\patika-konsol-uygulamasi\bin\Debug\net5.0\patika-konsol-uygulamasi.exe
+C:\Users\Cemil\Desktop\patika-konsol-uygulamasi\bin\Debug\net5.0\patika-konsol-uygulamasi.deps.json
+C:\Users\Cemil\Desktop\patika-konsol-uygulamasi\bin\Debug\net5.0\patika-konsol-uygulamasi.runtimeconfig.json
+C:\Users\Cemil\Desktop\patika-konsol-uygulamasi\bin\Debug\net5.0\patika-konsol-uygulamasi.runtimeconfig.dev.json
+C:\Users\Cemil\Desktop\patika-konsol-uygulamasi\bin\Debug\net5.0\patika-konsol-uygulamasi.dll
+C:\Users\Cemil\Desktop\patika-konsol-uygulamasi\bin\Debug\net5.0\ref\patika-konsol-uygulamasi.dll
+C:\Users\Cemil\Desktop\patika-konsol-uygulamasi\bin\Debug\net5.0\patika-konsol-uygulamasi.pdb
+C:\Users\Cemil\Desktop\patika-konsol-uygulamasi\obj\Debug\net5.0\patika-konsol-uygulamasi.csprojAssemblyReference.cache
+C:\Users\Cemil\Desktop\patika-konsol-uygulamasi\obj\Debug\net5.0\patika-konsol-uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cemil\Desktop\patika-konsol-uygulamasi\obj\Debug\net5.0\patika-konsol-uygulamasi.AssemblyInfoInputs.cache
+C:\Users\Cemil\Desktop\patika-konsol-uygulamasi\obj\Debug\net5.0\patika-konsol-uygulamasi.AssemblyInfo.cs
+C:\Users\Cemil\Desktop\patika-konsol-uygulamasi\obj\Debug\net5.0\patika-konsol-uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Cemil\Desktop\patika-konsol-uygulamasi\obj\Debug\net5.0\patika-konsol-uygulamasi.dll
+C:\Users\Cemil\Desktop\patika-konsol-uygulamasi\obj\Debug\net5.0\ref\patika-konsol-uygulamasi.dll
+C:\Users\Cemil\Desktop\patika-konsol-uygulamasi\obj\Debug\net5.0\patika-konsol-uygulamasi.pdb
+C:\Users\Cemil\Desktop\patika-konsol-uygulamasi\obj\Debug\net5.0\patika-konsol-uygulamasi.genruntimeconfig.cache
